@@ -1,0 +1,21 @@
+body { background-color: #e8f8f5;
+    margin: 0 !important;
+   }
+ h1 {}
+ #terms { background-color: #f8f9f9;
+   }
+ #table{ background-color: #f8f9f9;
+   }
+ #circle-img{  float: left; border-radius: 50%; height: 70px;
+   }
+ #survey { background-color: #d4efdf; width: 230px;
+   }
+ #hr1	{ display: block; border-top: 1px solid yellow; margin-right: auto; margin-left: auto; height: 2px;
+   }
+ #hr2	{ border-top: 1px dashed orange;
+   }
+ #hr3	{ border-top: 1px dotted blue;
+   }
+   /* css comment */
+ .mask { background-color: blue; }
+ .mask2{background-color: red; }
